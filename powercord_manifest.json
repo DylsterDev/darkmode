@@ -1,0 +1,8 @@
+{
+    "name": "DarkMod",
+    "description": "Keep it clean with a dark mode for Powercord",
+    "version": "0.0.1",
+    "author": "Dylster#6969",
+    "license": "MIT",
+    "theme": "./darkmod.css"
+}
